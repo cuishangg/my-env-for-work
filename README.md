@@ -1,6 +1,6 @@
 # my-env-for-work
 
-##vim-env
+## vim-env
 vim IDE config
 
 解压：
